@@ -11,7 +11,7 @@
 #define SPECIAL1 0xe0 // 특수키는 0xe0 + key 값으로 구성
 #define SPECIAL2 0x00 // keypad 경우 0x00 + key 로 구성
 #define UP  0x48 // Up key는 0xe0 + 0x48 두개의 값이 들어옴
-#define DOWN 0x50
+#define DOWN 0x50 //Down key 정의
 #define ENTER 13
 
 /*메인 메뉴에 나올 아스키아트*/
