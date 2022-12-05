@@ -9,6 +9,7 @@
 #include "start.h"
 #pragma comment(lib, "winmm.lib")
 
+
 /*원하는 위치로 커서 이동 함수*/
 void gotoxy(int x, int y)
 {
@@ -110,14 +111,8 @@ int select_main_menu()
 			{ // 예를 들어 UP key의 경우 0xe0 0x48 두개의 문자가 들어온다.
 				ch = _getch();
 				remove_box(40, 23 + n % 3 * 3, 74, 25 + n % 3 * 3);
-<<<<<<< HEAD
-				if (ch == UP) n += 2; // ��ĭ ����
-				else if (ch == DOWN) n += 1; // ��ĭ �Ʒ���
-=======
 				if (ch == UP) n += 2; // 한칸 위로
 				else if (ch == DOWN) n += 1; // 한칸 아래로
-				//draw_box(30, 23 + n % 3 * 3, 64, 25 + n % 3 * 3);
->>>>>>> c77fc3c585e9f6c4464869ff5d47e0b14c93100e
 				draw_box(40, 23 + n % 3 * 3, 74, 25 + n % 3 * 3);
 			}
 			else if (ch == ENTER)
