@@ -1,0 +1,7 @@
+C:\testC\Cproject\x64\Debug\Cproject.exe
+C:\Users\woo2l\Desktop\Cproject (1)\x64\Debug\Cproject.exe
+C:\Users\woo2l\Desktop\Cproject(test)\x64\Debug\Cproject.exe
+C:\Users\dosa0\Downloads\Cproject(test)\x64\Debug\Cproject.exe
+C:\Users\woo2l\Desktop\Cproject(test22)\x64\Debug\Cproject.exe
+C:\Users\woo2l\Desktop\ProjectC(test1202)\x64\Debug\Cproject.exe
+C:\Users\woo2l\Desktop\ProjectC1203\x64\Debug\Cproject.exe
